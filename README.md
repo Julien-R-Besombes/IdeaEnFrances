@@ -1,1 +1,3 @@
-Lorem ipsum
+L'objecif de ce site est de rendre accesible au public francophone l'oeuvre de la remarquable poétesse urugayenne Idea Vilariño (1920-2009).
+Toute proposition de traduction est chaleureusement accueillie (s'adresser à julien.roand.besombes[at]gmail.com ou sur la page github associée).
+Pour des questions d'organisation personelle le site ne pourra s'étoffer qu'à partir de fin juillet 2024 quand je serai libéré d'un certain nombre d'obligations chronophages.
