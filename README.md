@@ -6,4 +6,5 @@ Pour des questions d'organisation personelle le site ne pourra s'étoffer qu'à 
 
 
 # Liens utiles
-- Un enregistrement de certains poèmes d'Idea Vilariño disponibe sur [Spotify](https://open.spotify.com/intl-fr/album/1RqTEYAqKlvyXgM9yG4VXu) ou toute autre plateforme de streaming
+- __Poesía 1947-1991__ : Une lecture de certains poèmes d'Idea Vilariño par la poétesse elle-même disponible sur [Spotify](https://open.spotify.com/intl-fr/album/1RqTEYAqKlvyXgM9yG4VXu) ou toute autre plateforme de streaming de bonne qualité
+- [__A media voz__](http://amediavoz.com/vilarino.htm) : un site web compilant quelques uns des vers les plus fameux de Vilariño
